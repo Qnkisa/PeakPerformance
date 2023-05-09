@@ -665,7 +665,7 @@ footer ul li a:hover{
 /*process hero start*/
 
 .process-hero{
-  background-image: url("/process-hero.jpg");
+  background-image: url("/process-hero-min.jpg");
   z-index: 80;
   position: relative;
 }
@@ -762,17 +762,17 @@ footer ul li a:hover{
 }
 
 .process-main-div-image-one{
-  background-image: url("/process-image1.jpg");
+  background-image: url("/process-image1-min.jpg");
   background-position: bottom center;
 }
 
 .process-main-div-image-two{
-  background-image: url("/process-image2.jpg");
+  background-image: url("/process-image2-min.jpg");
   background-position: center center;
 }
 
 .process-main-div-image-three{
-  background-image: url("/process-image3.jpg");
+  background-image: url("/process-image3-min.jpg");
   background-position: center center;
 }
 
@@ -787,7 +787,7 @@ footer ul li a:hover{
 }
 
 .process-main-div-image-six{
-  background-image: url("/process-image6.jpg");
+  background-image: url("/process-image6-min.jpg");
 }
 
 .process-image-filter{
@@ -1004,7 +1004,7 @@ footer ul li a:hover{
 .form-page{
   width: 100%;
   min-height: 100vh;
-  background-image: url("/about-background1.jpg");
+  background-image: url("/about-background1-min.jpg");
   background-size: cover;
   display: flex;
   justify-content: center;
