@@ -33,13 +33,19 @@ export default function Footer() {
                 <div className="footer-top-div">
                     <div className="footer-socials">
                         <div className="footer-social">
-                            <ion-icon name="logo-instagram"></ion-icon>
+                            <a href="https://www.instagram.com/" target='_blank'>
+                                <ion-icon name="logo-instagram"></ion-icon>
+                            </a>
                         </div>
                         <div className="footer-social">
-                            <ion-icon name="logo-facebook"></ion-icon>
+                            <a href="https://www.facebook.com/" target='_blank'>
+                                <ion-icon name="logo-facebook"></ion-icon>
+                            </a>
                         </div>
                         <div className="footer-social">
-                            <ion-icon name="logo-twitter"></ion-icon>
+                            <a href="https://twitter.com/home" target='_blank'>
+                                <ion-icon name="logo-twitter"></ion-icon>
+                            </a>
                         </div>
                     </div>
                 </div>

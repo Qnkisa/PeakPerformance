@@ -572,7 +572,8 @@ nav ul li:last-child a:hover{
 
 footer{
   width: 100%;
-  margin-top: 100px;
+  position: relative;
+  z-index: 90;
 }
 
 .footer-top{
@@ -612,17 +613,17 @@ footer ul li a:hover{
   font-size: 1.5rem;
 }
 
-.footer-social{
+.footer-social a{
   color: white;
   background-color: var(--clr-red);
-  padding: 10px 10px 4px 10px;
+  padding: 10px 8px 4px 8px;
   border-radius: 50%;
   cursor: pointer;
   transition: all .3s;
   border: 1px solid var(--clr-red);
 }
 
-.footer-social:hover{
+.footer-social a:hover{
   color: var(--clr-red);
   background-color: var(--clr-blue);
 }
@@ -818,7 +819,7 @@ footer ul li a:hover{
 /*process bottom start*/
 
 .process-bottom{
-  padding: 20vh 2rem 10vh;
+  padding: 20vh 2rem 15vh;
   width: 100%;
   background-color: var(--clr-blue);
   position: relative;
@@ -879,7 +880,7 @@ footer ul li a:hover{
 }
 
 .about-hero{
-  background-image: url("/about-hero.jpg");
+  background-image: url("/about-hero-min.jpg");
   z-index: 80;
   position: relative;
 }
