@@ -1,4 +1,4 @@
-<div style="text-align:center">![Alt Text](https://github.com/Qnkisa/PeakPerformance/blob/main/public/website-logo.png?raw=true)</div>
+<div align='center'>![Alt Text](https://github.com/Qnkisa/PeakPerformance/blob/main/public/website-logo.png?raw=true)</div>
 
 ## About
 
