@@ -1,4 +1,4 @@
-<div style='text-align:center'><img src='/website-logo.png'/></div>
+![Alt Text](../public/website-logo.png)
 
 #### About
 ___
