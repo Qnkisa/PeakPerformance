@@ -1,4 +1,4 @@
-![Alt Text](../public/website-logo.png)
+![Alt Text](/website-logo.png)
 
 #### About
 ___
