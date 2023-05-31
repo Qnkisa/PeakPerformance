@@ -7,5 +7,5 @@ __PeakPerformance__, the online fitness coaching website built with React, is ex
 Live Demo: https://peak-performance-bg.vercel.app/
 
 ## Build with:
->React JS
->CSS
+» React JS
+» CSS
