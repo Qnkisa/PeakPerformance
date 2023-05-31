@@ -1,4 +1,4 @@
-![website-logo](/website-logo.png)
+<div style='text-align:center'><img src='/website-logo.png'/></div>
 
 #### About
 ___
