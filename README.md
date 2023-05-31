@@ -19,9 +19,6 @@ Live Demo: https://peak-performance-bg.vercel.app/
 > CSS
 
 <br>
-<br>
-
-
 
 ## Project Screenshot 📸
 
