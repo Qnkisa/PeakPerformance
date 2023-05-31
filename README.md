@@ -1,4 +1,4 @@
-![Alt Text](/website-logo.png)
+![Alt Text](https://github.com/Qnkisa/PeakPerformance/blob/main/public/website-logo.png?raw=true)
 
 #### About
 ___
